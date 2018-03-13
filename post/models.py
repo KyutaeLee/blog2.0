@@ -17,6 +17,6 @@ class Post(models.Model):
 
     def get_absolute_url(self):
         from django.urls import reverse
-        return reverse('post:photo_detail', args=[str(self.id)])
+        return reverse('post:post_detail', args=[str(self.id)])
 
 
