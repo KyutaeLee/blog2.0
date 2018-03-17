@@ -3,154 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1bcac3ff-2acd-46ef-89c9-038ff5ea1c1c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/Django-2.0.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/Django-2.0.dist-info/INSTALLER" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/Django-2.0.dist-info/LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/Django-2.0.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/Django-2.0.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/Django-2.0.dist-info/WHEEL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/Django-2.0.dist-info/entry_points.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/Django-2.0.dist-info/metadata.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/Django-2.0.dist-info/top_level.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/__init__.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/be/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/be/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/be/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/be/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/cs/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/cs/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/cs/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/cs/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/da/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/da/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/da/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/da/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/dsb/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/dsb/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/dsb/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/dsb/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/eo/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/eo/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/eo/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/eo/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/es_AR/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/es_AR/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/es_AR/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/es_AR/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/eu/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/eu/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/eu/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/eu/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/hsb/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/hsb/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/hsb/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/hsb/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/id/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/id/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/id/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/id/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ja/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ja/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ja/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ja/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ka/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ka/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ka/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ka/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ko/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ko/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ko/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ko/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/lt/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/lt/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/lt/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/lt/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/lv/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/lv/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/lv/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/lv/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/mn/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/mn/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/mn/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/mn/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ne/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ne/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ne/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ne/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/pl/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/pl/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/pl/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/pl/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ro/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ro/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ro/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ro/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ru/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ru/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ru/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/ru/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/sk/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/sk/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/sk/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/sk/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/sl/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/sl/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/sl/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/sl/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/sr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/sr/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/sr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/sr/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/th/formats.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/th/formats.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/tr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/tr/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/tr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/tr/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/zh_Hant/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/zh_Hant/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/zh_Hant/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/conf/locale/zh_Hant/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/checks.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/checks.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/djangojs.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/djangojs.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/djangojs.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/djangojs.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/djangojs.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/djangojs.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/views/main.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/views/main.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/widgets.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/admin/widgets.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/__init__.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/base_user.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/base_user.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/forms.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/forms.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/eo/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/eo/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/eo/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/eo/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/eu/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/eu/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/eu/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/eu/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/fr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/fr/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/fr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/fr/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/id/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/id/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/id/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/id/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/ka/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/ka/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/ka/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/ka/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/lv/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/lv/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/lv/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/lv/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/ne/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/ne/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/ne/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/ne/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/ro/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/ro/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/ro/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/ro/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/sl/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/sl/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/sl/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/sl/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hans/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hans/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hans/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hans/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hant/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hant/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hant/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hant/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/contenttypes/fields.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/contenttypes/fields.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/contenttypes/locale/sr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/contenttypes/locale/sr/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/contenttypes/locale/sr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/contenttypes/locale/sr/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/flatpages/locale/sr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/flatpages/locale/sr/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/flatpages/locale/sr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/flatpages/locale/sr/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/gis/db/models/fields.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/gis/db/models/fields.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/gis/geos/geometry.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/gis/geos/geometry.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/gis/locale/sr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/gis/locale/sr/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/gis/locale/sr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/gis/locale/sr/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/humanize/locale/sr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/humanize/locale/sr/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/humanize/locale/sr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/humanize/locale/sr/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/messages/__init__.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/messages/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/postgres/locale/cs/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/postgres/locale/cs/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/postgres/locale/cs/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/postgres/locale/cs/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/redirects/locale/sr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/redirects/locale/sr/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/redirects/locale/sr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/redirects/locale/sr/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/redirects/locale/zh_Hans/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/redirects/locale/zh_Hans/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/redirects/locale/zh_Hans/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/redirects/locale/zh_Hans/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/sessions/locale/sr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/sessions/locale/sr/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/sessions/locale/sr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/sessions/locale/sr/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/sites/locale/sr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/sites/locale/sr/LC_MESSAGES/django.mo" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/sites/locale/sr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/sites/locale/sr/LC_MESSAGES/django.po" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/core/management/commands/runserver.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/core/management/commands/runserver.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/core/management/templates.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/core/management/templates.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/backends/base/schema.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/backends/base/schema.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/backends/sqlite3/introspection.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/backends/sqlite3/introspection.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/backends/sqlite3/operations.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/backends/sqlite3/operations.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/backends/sqlite3/schema.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/backends/sqlite3/schema.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/migrations/questioner.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/migrations/questioner.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/deletion.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/deletion.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/expressions.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/expressions.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/indexes.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/indexes.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/query.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/query.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/query_utils.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/query_utils.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/signals.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/signals.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/sql/compiler.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/sql/compiler.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/sql/query.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/db/models/sql/query.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/forms/jinja2/django/forms/widgets/multiwidget.html" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/forms/jinja2/django/forms/widgets/multiwidget.html" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/forms/templates/django/forms/widgets/multiwidget.html" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/forms/templates/django/forms/widgets/multiwidget.html" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/urls/resolvers.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/urls/resolvers.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/utils/autoreload.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/utils/autoreload.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/utils/html.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/utils/html.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/utils/text.py" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/utils/text.py" />
-      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" afterPath="$PROJECT_DIR$/mysite/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -170,7 +22,7 @@
       <file leaf-file-name="upload.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/upload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="90">
               <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
@@ -179,12 +31,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="e#22#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -276,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,7 +158,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -335,12 +199,12 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3372093" sideWeight="0.50277996" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3372093" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3372093" sideWeight="0.49722" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -363,13 +227,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/post/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -663,9 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1395">
           <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-          <folding>
-            <element signature="e#305#314#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,13 +534,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/upload.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="90">
           <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
@@ -698,8 +550,18 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
